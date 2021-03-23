@@ -27,6 +27,7 @@
 .logo{
     height: 80px;
     margin-left: 5%;
+    cursor: pointer;
 }
 .listItem{
     display: inline;
